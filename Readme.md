@@ -11,7 +11,7 @@
 **1. Cloner le projet**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/franck30/springBootChatApplication.git
 ```
 
 **2. Compiler et lancer le projet avec Maven**
